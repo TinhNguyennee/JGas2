@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/JGas2/static/css/main.edaa594b.css",
-    "main.js": "/JGas2/static/js/main.6ca22ebb.js",
+    "main.js": "/JGas2/static/js/main.7851ab79.js",
     "static/media/background.jpg": "/JGas2/static/media/background.c6e21ae1ec88db4c3c7d.jpg",
     "index.html": "/JGas2/index.html",
     "main.edaa594b.css.map": "/JGas2/static/css/main.edaa594b.css.map",
-    "main.6ca22ebb.js.map": "/JGas2/static/js/main.6ca22ebb.js.map"
+    "main.7851ab79.js.map": "/JGas2/static/js/main.7851ab79.js.map"
   },
   "entrypoints": [
     "static/css/main.edaa594b.css",
-    "static/js/main.6ca22ebb.js"
+    "static/js/main.7851ab79.js"
   ]
 }
