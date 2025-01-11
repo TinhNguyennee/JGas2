@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/JGas2/static/css/main.edaa594b.css",
+    "main.js": "/JGas2/static/js/main.34c27e39.js",
+    "static/media/background.jpg": "/JGas2/static/media/background.c6e21ae1ec88db4c3c7d.jpg",
+    "index.html": "/JGas2/index.html",
+    "main.edaa594b.css.map": "/JGas2/static/css/main.edaa594b.css.map",
+    "main.34c27e39.js.map": "/JGas2/static/js/main.34c27e39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edaa594b.css",
+    "static/js/main.34c27e39.js"
+  ]
+}
