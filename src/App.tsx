@@ -1,7 +1,6 @@
 import React from "react";
 import {
   createBrowserRouter,
-  Outlet,
   RouteObject,
   RouterProvider,
 } from "react-router-dom";
@@ -26,12 +25,7 @@ const appRoutes: RouteObject[] = [
   },
 ];
 
-const router = createBrowserRouter([
-  {
-    element: <Outlet />,
-    children: appRoutes,
-  },
-]);
+const router = createBrowserRouter(appRoutes);
 
 const App: React.FC = () => {
   return <RouterProvider router={router} />;
