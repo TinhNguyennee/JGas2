@@ -2,7 +2,7 @@
   "name": "JGas",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://TinhNguyennee.github.io/JGas2",
+  "homepage": "https://tinhnguyennee.github.io/JGas2",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
